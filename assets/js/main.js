@@ -385,8 +385,8 @@
 
 			}
 
-		// Initialize.
 
+		// Initialize.
 			// Hide main, articles.
 				$main.hide();
 				$main_articles.hide();
@@ -399,3 +399,4 @@
 					});
 
 })(jQuery);
+
